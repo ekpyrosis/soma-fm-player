@@ -55,6 +55,7 @@ module.exports = {
   devServer: {
     host: serverHost,
     port: serverPort,
+    headers: { "Access-Control-Allow-Origin": "*" },
     contentBase: serverRoot,
     clientLogLevel: 'info',
     hot: true,

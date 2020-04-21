@@ -1,0 +1,81 @@
+{
+  "channels": [
+    {
+      "id": "sunshinelivetechno",
+      "title": "sunshine live - Techno",
+      "description": "http://radio.sunshine-live.de",
+      "dj": "Mannheim, Germany",
+      "genre": "techno",
+      "image": "https://media.streamabc.com/sunshine-live/techno/600x600__sunshine_live_Techno_colored.png",
+      "largeimage": "https://media.streamabc.com/sunshine-live/techno/1024x1024_sunshine_live_Techno_colored.jpg",
+      "xlimage": "https://media.streamabc.com/sunshine-live/techno/1920x1080_sunshine_live_Techno_techno.jpg",
+      "twitter": "",
+      "updated": "",
+      "playlists": [
+        {
+          "url": "http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/play.pls",
+          "format": "aac",
+          "quality": "highest"
+        },
+        {
+          "url": "http://stream.sunshine-live.de/techno/mp3-128/stream.sunshine-live.de/play.pls",
+          "format": "mp3",
+          "quality": "high"
+        },
+        {
+          "url": "http://stream.sunshine-live.de/techno/aac-64/stream.sunshine-live.de/play.pls",
+          "format": "aacp",
+          "quality": "high"
+        },
+        {
+          "url": "http://stream.sunshine-live.de/techno/aac-64/stream.sunshine-live.de/play.pls",
+          "format": "aacp",
+          "quality": "low"
+        }
+      ],
+      "listeners": "",
+      "lastPlaying": ""
+    },
+    {
+      "id": "groovesalad",
+      "title": "Groove Salad",
+      "description": "https://somafm.com/",
+      "dj": "San Francisco, CA",
+      "genre": "ambient|electronica",
+      "image": "https://api.somafm.com/img/groovesalad120.png",
+      "largeimage": "https://api.somafm.com/logos/256/groovesalad256.png",
+      "xlimage": "https://api.somafm.com/logos/512/groovesalad512.png",
+      "twitter": "",
+      "updated": "1382565808",
+      "playlists": [
+        {
+          "url": "https://api.somafm.com/groovesalad256.pls",
+          "format": "mp3",
+          "quality": "highest"
+        },
+        {
+          "url": "https://api.somafm.com/groovesalad130.pls",
+          "format": "aac",
+          "quality": "highest"
+        },
+        {
+          "url": "https://api.somafm.com/groovesalad.pls",
+          "format": "mp3",
+          "quality": "high"
+        },
+        {
+          "url": "https://api.somafm.com/groovesalad64.pls",
+          "format": "aacp",
+          "quality": "high"
+        },
+        {
+          "url": "https://api.somafm.com/groovesalad32.pls",
+          "format": "aacp",
+          "quality": "low"
+        }
+      ],
+      "listeners": "",
+      "lastPlaying": ""
+    }
+  ]
+}
